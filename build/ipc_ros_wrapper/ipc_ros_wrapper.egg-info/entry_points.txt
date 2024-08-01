@@ -1,0 +1,4 @@
+[console_scripts]
+dummy_publisher = ipc_ros_wrapper.dummy_publisher:main
+ipc_subscriber = ipc_ros_wrapper.subscriber:main
+

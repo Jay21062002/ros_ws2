@@ -1,0 +1,6 @@
+source;share/ipc_ros_wrapper/hook/pythonpath.ps1
+source;share/ipc_ros_wrapper/hook/pythonpath.dsv
+source;share/ipc_ros_wrapper/hook/pythonpath.sh
+source;share/ipc_ros_wrapper/hook/ament_prefix_path.ps1
+source;share/ipc_ros_wrapper/hook/ament_prefix_path.dsv
+source;share/ipc_ros_wrapper/hook/ament_prefix_path.sh

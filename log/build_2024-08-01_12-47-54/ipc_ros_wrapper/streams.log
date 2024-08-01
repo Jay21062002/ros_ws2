@@ -1,0 +1,25 @@
+[0.562s] Invoking command in '/home/jay/ros_ws/src/ipc_ros_wrapper': PYTHONPATH=/home/jay/ros_ws/build/ipc_ros_wrapper/prefix_override:/home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ipc_ros_wrapper build --build-base /home/jay/ros_ws/build/ipc_ros_wrapper/build install --record /home/jay/ros_ws/build/ipc_ros_wrapper/install.log --install-scripts $base/lib/ipc_ros_wrapper --single-version-externally-managed install_data
+[0.734s] running egg_info
+[0.735s] writing ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/PKG-INFO
+[0.735s] writing dependency_links to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/dependency_links.txt
+[0.735s] writing entry points to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/entry_points.txt
+[0.735s] writing requirements to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/requires.txt
+[0.735s] writing top-level names to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/top_level.txt
+[0.771s] reading manifest file '../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/SOURCES.txt'
+[0.772s] writing manifest file '../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/SOURCES.txt'
+[0.772s] running build
+[0.772s] running build_py
+[0.772s] copying ipc_ros_wrapper/subscriber.py -> /home/jay/ros_ws/build/ipc_ros_wrapper/build/lib/ipc_ros_wrapper
+[0.772s] running install
+[0.773s] running install_lib
+[0.773s] copying /home/jay/ros_ws/build/ipc_ros_wrapper/build/lib/ipc_ros_wrapper/subscriber.py -> /home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages/ipc_ros_wrapper
+[0.774s] byte-compiling /home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages/ipc_ros_wrapper/subscriber.py to subscriber.cpython-38.pyc
+[0.775s] running install_data
+[0.775s] running install_egg_info
+[0.776s] removing '/home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages/ipc_ros_wrapper-0.0.0-py3.8.egg-info' (and everything under it)
+[0.776s] Copying ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info to /home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages/ipc_ros_wrapper-0.0.0-py3.8.egg-info
+[0.777s] running install_scripts
+[0.790s] Installing dummy_publisher script to /home/jay/ros_ws/install/ipc_ros_wrapper/lib/ipc_ros_wrapper
+[0.790s] Installing ipc_subscriber script to /home/jay/ros_ws/install/ipc_ros_wrapper/lib/ipc_ros_wrapper
+[0.790s] writing list of installed files to '/home/jay/ros_ws/build/ipc_ros_wrapper/install.log'
+[0.806s] Invoked command in '/home/jay/ros_ws/src/ipc_ros_wrapper' returned '0': PYTHONPATH=/home/jay/ros_ws/build/ipc_ros_wrapper/prefix_override:/home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ipc_ros_wrapper build --build-base /home/jay/ros_ws/build/ipc_ros_wrapper/build install --record /home/jay/ros_ws/build/ipc_ros_wrapper/install.log --install-scripts $base/lib/ipc_ros_wrapper --single-version-externally-managed install_data

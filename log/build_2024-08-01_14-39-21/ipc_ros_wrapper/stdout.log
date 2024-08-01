@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/PKG-INFO
+writing dependency_links to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/dependency_links.txt
+writing entry points to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/entry_points.txt
+writing requirements to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/requires.txt
+writing top-level names to ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/top_level.txt
+reading manifest file '../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/SOURCES.txt'
+writing manifest file '../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages/ipc_ros_wrapper-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/ipc_ros_wrapper/ipc_ros_wrapper.egg-info to /home/jay/ros_ws/install/ipc_ros_wrapper/lib/python3.8/site-packages/ipc_ros_wrapper-0.0.0-py3.8.egg-info
+running install_scripts
+Installing dummy_publisher script to /home/jay/ros_ws/install/ipc_ros_wrapper/lib/ipc_ros_wrapper
+Installing ipc_subscriber script to /home/jay/ros_ws/install/ipc_ros_wrapper/lib/ipc_ros_wrapper
+writing list of installed files to '/home/jay/ros_ws/build/ipc_ros_wrapper/install.log'
